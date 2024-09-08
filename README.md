@@ -26,9 +26,9 @@ EDP Sciences - E3S Web of Conferences
 
 https://www.e3s-conferences.org/
 
-https://doi.org/10.1051/bioconf/20236201002
+https://doi.org/10.1051/e3sconf/202456601004
 
-![alt test](/paper_01.png)
+![alt test](/edp01.png)
 
 Graphical Abstract
 
